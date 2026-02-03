@@ -87,7 +87,3 @@ The dataset includes historical weekly sales data along with key economic and se
 
 ---
 
-## 🚀 How to Run the Project
-1. Clone the repository  
-   ```bash
-   git clone <repository-url>
